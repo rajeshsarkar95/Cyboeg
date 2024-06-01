@@ -71,6 +71,7 @@ function page() {
                 <span className="ml-12">2.3M </span>
               </h6>
             </div>
+            
             <div className="bg-gray-700 mx-6   rounded-3xl ">
               {/* image 2  */}
               <img

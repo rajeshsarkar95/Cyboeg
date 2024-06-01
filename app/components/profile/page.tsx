@@ -33,7 +33,7 @@ function page() {
                 Alan Smithhee
               </h1>
               <p className="block py-1 font-medium mt-12 hover:text-slate-900 dark:text-slate-400 dark:hover:text-slate-300">
-                You Haven't Gone Live yet. Go Live By Touching The Button <br />
+                You Havent Gone Live yet. Go Live By Touching The Button <br />
                 Below
               </p>
               <button
@@ -92,6 +92,7 @@ function page() {
                 src="https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/clip-02.jpg"
                 alt=""
               />
+            
               <h1 className="sticky ml-4 mt-3 z-10  text-sm leading-6 font-semibold text-slate-700   dark:text-slate-300">
                 {" "}
                 First clips
